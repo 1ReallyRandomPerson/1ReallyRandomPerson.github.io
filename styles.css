@@ -103,20 +103,10 @@ button {
 }
 
 @media (min-width: 801px) {
-    body {
-        margin: 0px;
-        padding: 0px;
-        overflow-x: hidden;
-        font-family: Arial;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: flex-start;
-    }
-
     button {
         vertical-align: top;
         border: none;
-        width: 20vw;
+        width: 33vw;
         min-height: 50px;
         font-size: calc(12px + 1.5vh);
         color: #FFFFFF;
