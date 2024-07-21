@@ -108,6 +108,9 @@ button {
         padding: 0px;
         overflow-x: hidden;
         font-family: Arial;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
     }
 
     button {
