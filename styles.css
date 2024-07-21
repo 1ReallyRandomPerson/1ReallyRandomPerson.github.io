@@ -102,6 +102,10 @@ button {
     background-color: #909090;
 }
 
+.qrcode {
+    max-width: 500px;
+}
+
 @media (min-width: 801px) {
     button {
         vertical-align: top;
