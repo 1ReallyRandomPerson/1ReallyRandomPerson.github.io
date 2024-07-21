@@ -125,7 +125,7 @@ page3btn.addEventListener("click", function () {
         }
     }
     else {
-        change(1);
+        change(3);
     }
     }
 );
