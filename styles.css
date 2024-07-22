@@ -106,11 +106,19 @@ button {
     max-width: 500px;
 }
 
+.banner {
+    text-align: center;
+    width: 100vw;
+    font-size: calc(24px + 1.5vh);
+    color: #FFFFFF;
+    background-color: #222222;
+}
+
 @media (min-width: 801px) {
     button {
         vertical-align: top;
         border: none;
-        width: 33vw;
+        width: 32vw;
         min-height: 50px;
         font-size: calc(12px + 1.5vh);
         color: #FFFFFF;
